@@ -1,4 +1,6 @@
-# Claude Code (Rust)
+# Claudio Coda (Rust)
+
+<img src="claudio-coda-rust.png" alt="Claudio Coda" width="400"/>
 
 A Rust implementation of an AI coding assistant that uses OpenAI's API with tool calling capabilities.
 
