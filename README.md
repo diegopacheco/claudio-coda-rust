@@ -4,6 +4,18 @@
 
 A Rust implementation of an AI coding assistant that uses OpenAI's API with tool calling capabilities.
 
+## Rationale
+
+* This is a lot of fun.
+* Rust along side with Scala 3 it's a great language for buidling AI tooling/systems.
+* Rust has a great compiler who catches a lot of errors at compile time.
+* Rust has amaziong performance and low memory usage.
+* Rust has great ecosystem for building anything.
+* Rust is great for AI because provide many guardrails at compile time.
+* Building a engineering coding agent is fun, challenging and rewarding.
+* OpenAI has a very cost effective LLM API.
+* This POC it's all about tool calling and how to interact with a LLM API in a advanced way.
+
 ## OpenAI
 
 This application uses the **GPT-4o** model (`gpt-4o`) via the OpenAI Chat Completions API.
