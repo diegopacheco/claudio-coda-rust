@@ -103,9 +103,23 @@ cargo run
 Generating a Python hello world application:
 
 ```
----------------------------------------------------
-Claude Code (Rust) - Type 'quit' or 'exit' to exit
----------------------------------------------------
+
+          _____
+       .-'     `-.
+      /   .---.   \
+     |   / .-. \   |
+     |  | | R | |  |
+     |   \ `-' /   |
+      \   `---'   /
+       `-._____.-'
+
+   ╔═╗╦  ╔═╗╦ ╦╔╦╗╦╔═╗  ╔═╗╔═╗╔╦╗╔═╗
+   ║  ║  ╠═╣║ ║ ║║║║ ║  ║  ║ ║ ║║╠═╣
+   ╚═╝╩═╝╩ ╩╚═╝═╩╝╩╚═╝  ╚═╝╚═╝═╩╝╩ ╩
+   Engineering Coding Agent
+
+Type 'quit' or 'exit' to exit
+─────────────────────────────────────
 > Create a python hello world app called main.py
 [Tool: edit_file]
 Result: File 'main.py' written successfully
